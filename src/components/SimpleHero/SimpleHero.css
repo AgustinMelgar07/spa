@@ -1,0 +1,9 @@
+.simple-hero {
+  height: 37.5dvh;
+
+  color: var(--pal-color-white);
+
+  img {
+    object-position: 50% 45%;
+  }
+}
